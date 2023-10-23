@@ -9,7 +9,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-0sx-font-smoothing: grayscale;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 header{
